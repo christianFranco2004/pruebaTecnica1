@@ -1,0 +1,10 @@
+header{
+    width: 100vw;
+}
+.btn{
+    position: absolute;
+    font-size: 35px;
+    padding: 10px 30px;
+    bottom: 6%;
+}
+
